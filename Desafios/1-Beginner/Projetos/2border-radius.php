@@ -28,6 +28,7 @@ require('general.php');
             <div class="card" style="border-radius: 20px ; background-color:dimgray; color:white">
                 <h4 class="card-title">Desafio 2</h4>
                 <p class="card-text">Testando o segundo desafio, colocar bordas arredondadas </p>
+                
             </div>
         </div>
     </div>
